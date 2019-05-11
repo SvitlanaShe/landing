@@ -1,0 +1,71 @@
+launchrock
+strikingly
+
+https://lewagon.github.io/landing/
+material desighn
+bootstrap
+
+https://www.sublimetext.com/3
+
+nucleoapp.com  - images  free
+flaticons
+
+target = if e have it, it will open for link new tab, not closing us
+<p>smaller subtitle, description
+
+ul - unordered list  li
+ol - ordered list  li 
+
+
+h1  tab  - will became  <h1></h1>
+
+call to action - CTA !!! to make people click
+
+cmnd + d - Marks the same word in text !!!
+
+How to add same attribute in several places: 
+
+codepen.io  - online coding with result 
+
+rgba  : r - red, g - green, b - blue, a - apacity
+
+one leading color
+
+font family
+Times New Roman
+Sens Serif
+monospace
+
+font-size
+line-height
+letter-spacingn(headers, paragraphs)
+color
+text-decoration - underline...
+
+https://fonts.google.com/
+
+style-css always in the very end!!!!!
+
+colors:
+coolors.co - generate  +space - it change colors
+https://colorhunt.co/
+
+extension - colorpicker - you can get color from any page
+
+margin
+padding
+div
+id class
+
+free images 
+unsplash.com
+pexels.com
+visualhunt.com
+
+to add facebook ))
+https://fontawesome.com/
+https://fontawesome.com/icons/facebook?style=brands
+
+bootstrap
+
+
